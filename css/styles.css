@@ -1,11 +1,12 @@
 .form-control{
 	size: 10px !important;
 }
-.well{
-	background-color: #02544e !important;
-	color: white;
-}
 
-.dif{
-	color: red;
+body {
+	background-image: url("http://il4.picdn.net/shutterstock/videos/1049113/thumb/1.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+.container{
+	color: white;
 }
