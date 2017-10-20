@@ -1,5 +1,4 @@
 import { DrLookup } from './../js/drlookup.js'
-
 $(document).ready(function(){
   $('#drlookup').submit(function(e) {
     e.preventDefault();
